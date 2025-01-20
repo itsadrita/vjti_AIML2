@@ -26,3 +26,7 @@ To get started with VideoStreamlit, follow these steps:
    ```bash
    git clone https://github.com/itsadrita/vjti_AIML2.git
    cd VideoStreamlit
+
+
+![Alt text](https://github.com/itsadrita/vjti_AIML2/blob/main/vidai1.png)
+![Alt text](https://github.com/itsadrita/vjti_AIML2/blob/main/vidai2.png)
